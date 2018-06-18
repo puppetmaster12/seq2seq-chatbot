@@ -26,7 +26,7 @@ key. The generated response will be displayed below each input.
 
 ## Testing using the Flask web ui
 ### Dependencies for Flask app
-1. Flask - 1.0.2
+1. Flask - 1.0.2 - pip install flask
 
 run - python app.py to start a local flask server on http://127.0.0.1:5000.
 A simple ui is used with bootstrap.
